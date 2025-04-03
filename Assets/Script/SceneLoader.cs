@@ -9,6 +9,7 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("GameScene");
     }
+<<<<<<< HEAD
 
     public void LoadShopScene()
     {
@@ -19,5 +20,7 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("TitleScene");
     }
+=======
+>>>>>>> 9819789efaa99905adeba569ebb8685b644efed3
 }
 
